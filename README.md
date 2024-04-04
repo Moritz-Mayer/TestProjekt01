@@ -7,7 +7,6 @@ Hier kommt die Doku später
 
 ## Listen gibt es auch
 - Item 1
-- Item 2
 - Item 3
 ## Ordert Lists funktionieren auch
 1. Item 1
